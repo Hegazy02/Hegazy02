@@ -1,74 +1,31 @@
-### Hi there, I'm [alhasn alshrif][website] 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+alaikum..&hearts;++I'm+Abdelrhman+Hegazy;++Self-taught+Mobile+Developer;Flutter+developer;Active+Learner/Researcher"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Connect with me:
+## I'm a Software Engineer
 
-[![Website](https://img.shields.io/website?label=alhassn.com&style=for-the-badge&url=https%3A%2F%alhassn.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/alhasnalshrif?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
-
-
-## I'm a Software Engineer!!
-
-- 🔭 I’m currently working as a freelancer !
-- 🌱 I’m currently learning everything 🤣
-- 🥅 this year Goals: Contribute more to Open Source projects and open youtube channel
-- ⚡ Fun fact: I love anime
-
-<br />
-
-## Stay Connected with me !
-
-<a href="https://twitter.com/alhasnalshrif">
-  <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-<a href="https://t.me/alhasnalshrif">
-  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
-</a>
-<a href="https://www.instagram.com/alhasnalshrif/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
-</a>
-<a href="mailto:hassanaq98@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
-<a href="mailto:hassanaq98@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" margin="10px" alt="Django" width="26px" style="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" margin="10px" alt="Python" width="26px" style="26px"  src="https://github.com/abranhe/programming-languages-logos/raw/master/src/python/python_128x128.png" />
-<img align="left"margin="10px" alt="JavaScript" width="26px"  style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" margin="10px" alt="NodeJs" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="left"margin="10px" alt="React" width="26px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left"margin="10px" alt="SQL" width="26px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left"margin="10px" alt="MongoDB" style="max-width:100%;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left"margin="10px" alt="Git" style="max-width:100%;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left"margin="10px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" margin="10px" alt="Terminal" style="max-width:26px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" margin="10px" alt="Terminal" style="max-width:26px;" width="26px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-<img align="left" margin="10px" alt="Dart" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<br/>
-<br/>
-
-<details>
+- 🔭 I’m currently working as a flutter developer 
   
-  <summary>:zap: GitHub Stats</summary>
+<img align="center" alt="Coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFsZ2x0eThtMWNvaW5jMXFoMjRkZXJqdnN6ZGswNzhnYnNnb2UybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
-<a href="https://github.com/alhasnalshrif">
- <img  style="float: left" alt="alhasn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=light&line_height=27" />
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+
+<a href="https://www.linkedin.com/in/abdelrhman-hegazy0/" target="blank">
+<img src="https://img.shields.io/badge/linkedin: Hegazy-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-<a href="https://github.com/alhasnalshrif">
-  <img  style="float: left" alt="alhasn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&line_height=50"/>
+<a href="https://www.facebook.com/Hegazy0000" target="blank">
+<img src="https://img.shields.io/badge/Facebook: Hegazy-%2300acee.svg?color=0866ff&style=for-the-badge&logo=Facebook&logoColor=white" alt=Facebook style="margin-bottom: 5px;"/>
 </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<h3 align="left">Languages and Tools:</h3>
 
-  
-</details>
-
-[website]: http://afse.pythonanywhere.com/alhssn/
-[twitter]: https://twitter.com/alhasnalshrif
-[instagram]: https://www.instagram.com/alhasnalshrif/
-[linkedin]: https://linkedin.com/in/alhasnalshrif/
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
