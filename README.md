@@ -14,9 +14,6 @@
 <div align='left'>
 
 
-<a href="https://www.linkedin.com/in/abdelrhman-hegazy0/" target="blank">
-<img src="https://img.shields.io/badge/linkedin: Hegazy-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
 
 <a href="https://www.facebook.com/Hegazy0000" target="blank">
 <img src="https://img.shields.io/badge/Facebook: Hegazy-%2300acee.svg?color=0866ff&style=for-the-badge&logo=Facebook&logoColor=white" alt=Facebook style="margin-bottom: 5px;"/>
