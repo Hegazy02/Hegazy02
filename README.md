@@ -13,13 +13,19 @@
 <br>
 <div align='left'>
 
+  <a href="https://www.facebook.com/Hegazy0000" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook: Hegazy-%2300acee.svg?color=0866ff&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/abdelrhmanhegazy" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="https://www.facebook.com/Hegazy0000" target="blank">
-<img src="https://img.shields.io/badge/Facebook: Hegazy-%2300acee.svg?color=0866ff&style=for-the-badge&logo=Facebook&logoColor=white" alt=Facebook style="margin-bottom: 5px;"/>
-</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <h3 align="left">Languages and Tools:</h3>
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
